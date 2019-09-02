@@ -7,3 +7,5 @@ and now
 and now ..
 add_cake
 there is cake
+:smile:
+
