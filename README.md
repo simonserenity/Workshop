@@ -6,6 +6,7 @@ let's try this now
 and now
 and now ..
 add_cake
-there is cake
-:smile:
-
+there is cake  
+:smile:  
+:frown:  
+:angry:  
